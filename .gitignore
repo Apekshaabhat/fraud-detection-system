@@ -1,0 +1,13 @@
+
+# Virtual environment
+.venv/
+
+# Dataset files
+*.csv
+*.zip
+
+# Model files
+*.pkl
+
+# Jupyter notebooks (optional)
+*.ipynb
